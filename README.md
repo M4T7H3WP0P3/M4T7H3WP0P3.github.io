@@ -12,13 +12,25 @@
 <ul>
 <li><a href="https://github.com/M4T7H3WP0P3/HTML-and-CSS-/tree/main/bootstrap4_project">Basic Cinema Website</a></li>
 <li><a href="https://github.com/M4T7H3WP0P3/HTML-and-CSS-/tree/main/Project/Project">Space Station Resort Website</a></li>
+<li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/Pizza_Project">Pizza Menu</a></li>
+<li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/TicTacToe">TicTacToe Game</a></li>
+<li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/Calculator">Calculator</a></li>
 </ul>
 
 <h3>Space Station Resort</h3>
 <p>This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers and a form.</p>
       
 <h3>Cinema Website</h3>          
-<p>This page is an example home page for a Movie theather that is styled using Bootstrap 4. It contains many Bootstrap compnents including but not linited to a navbar, jumbotron, form, cards and dropdowns.</p>          
+<p>This page is an example home page for a Movie theather that is styled using Bootstrap 4. It contains many Bootstrap compnents including but not linited to a navbar, jumbotron, form, cards and dropdowns.</p>
+      
+<h3>Pizza Menu</h3>
+<p>This is a simple pizza menu created using HTML, CSS and JavaScript</p>
+
+<h3>TicTacToe Game</h3>
+<p>Fun TicTacToe game created using HTML, CSS and JavaScript</p>
+
+<h3>Calculator</h3>
+<p>Basic calculator for proforming basic math, created using HTML, CSS and JavaScript</p>
 
    </body>
 </html>
