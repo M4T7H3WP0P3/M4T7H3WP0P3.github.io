@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-      <h1>HTML and CSS Projects</h1>
+      <h1>HTML, CSS, JavaScript, C# Projects</h1>
   </head>
   
   <body>
@@ -15,6 +15,8 @@
 <li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/Pizza_Project">Pizza Menu</a></li>
 <li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/TicTacToe">TicTacToe Game</a></li>
 <li><a href="https://github.com/M4T7H3WP0P3/JavaScript-Projects/tree/main/JavaScript%20Projects/Calculator">Calculator</a></li>
+<li><a href="https://github.com/M4T7H3WP0P3/Basic-C-Sharp-Projects/tree/main/CarInsurance">Car Insurance</a></li>
+<li><a href="https://github.com/M4T7H3WP0P3/Basic-C-Sharp-Projects/tree/main/Price-Quote%20Application%20Assignment">Price Quote Application</a></li>
 </ul>
 
 <h3>Space Station Resort</h3>
@@ -32,5 +34,11 @@
 <h3>Calculator</h3>
 <p>Basic calculator for proforming basic math, created using HTML, CSS and JavaScript</p>
 
+<h3>Car Insurance</h3>
+<p>This project of an MVC web application that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all quotes that have been issued. </p>
+      
+<h3>Price Quote Application</h3>          
+<p>A simple shipping cost quote app that take the dimensions of the package and calulate the cost to ship.</p>
+      
    </body>
 </html>
